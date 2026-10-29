@@ -12,8 +12,8 @@ class MyProfileScreen extends StatelessWidget {
   // data, e.g. passed in via constructor params or read from a
   // UserProvider / auth state after sign-in.
   static const String _name = 'Garima Garima B';
-  static const String _signum = 'eagkgba';
-  static const String _email = 'garima.b@ericssson.com';
+  static const String _signum = 'earrgag';
+  static const String _email = 'garima.b.garima@ericssson.com';
   static const String _company = 'Ericsson';
 
   static const Color primaryBlue = Color(0xFF1E6FBA);
